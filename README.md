@@ -1,2 +1,7 @@
 # 04_BattleTank
-An open world, head-to-head tank fight with simple AI, terrain, and advanced control systems in Unreal 4.
+An open world, head-to-head tank fight with simple AI, terrain, and advanced control systems in Unreal 4. This program is the fourth section made following the Udemy course for Unreal Engine by Ben Tristem.
+
+## Lecture List
+* BT01 Intro, Notes, and Assets
+* BT02 Game Design Document (GDD)
+* BT03 Setting Up a GitHub Repo
